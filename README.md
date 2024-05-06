@@ -55,7 +55,7 @@ Para uma visão mais detalhada, consulte o documento completo de Especificação
 ## 📚 Referências
 
 1. PRESSMAN_Engenharia_de_software_Uma_Abor_gem
-2. SOMMERVILLE, Ian - *Engenharia de Software*. Pearson, 10ª edição, 2011.
+2.  Larman, Craig. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos e ao Desenvolvimento Iterativo. Bookman Editora, 2007.
 3. BEZERRA, Eduardo - *Engenharia de Software: conceitos e práticas*. LTC, 2016.
 4. DIJKMAN, R.M., et al. - "Business process modelling: A comparative analysis". *Proceedings of the 35th Hawaii International Conference on System Sciences*, 2002.
 5. CHUNG, L., et al. - "Non-functional Requirements in Software Engineering". Springer, 2000.
